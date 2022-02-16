@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ce8f30f0-1a59-e0b8-fe38-9fafddf28907
 ---
@@ -170,7 +173,7 @@ Angiogenesis in disease and medicine
 
 ### Paper 1
 
-Gragoudas, E. S., A. P. Adamis, E. T. Cunningham, Jr., M. Feinsod, and D. R. Guyer. "VEGF Inhibition Study in Ocular Neovascularization Clinical Trial Group." _N Engl J Med_ 351, no. 27 (December 30, 2004): 2805-16. ([PDF](http://www.nejm.org/doi/pdf/10.1056/NEJMoa042760))#
+Gragoudas, E. S., A. P. Adamis, E. T. Cunningham, Jr., M. Feinsod, and D. R. Guyer. "VEGF Inhibition Study in Ocular Neovascularization Clinical Trial Group." _N Engl J Med_ 351, no. 27 (December 30, 2004): 2805-16. ([PDF](http://www.nejm.org/doi/pdf/10.1056/NEJMoa042760)){{< sup "#" >}}
 
 ### Paper 2
 
