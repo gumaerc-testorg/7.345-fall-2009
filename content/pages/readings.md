@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section contains a list of readings by week, including links to
+  lecture summaries and online journal articles, as well as the suggested reading
+  list.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ce8f30f0-1a59-e0b8-fe38-9fafddf28907
 ---
@@ -31,7 +37,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#1)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#1" %}}
 
 
 {{< tdclose >}}
@@ -49,7 +55,7 @@ No Readings.
 
 Visualization of angiogenic sprouting
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#2)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#2" %}}
 
 
 {{< tdclose >}}
@@ -77,7 +83,7 @@ Gerhardt, H., M. Golding, M. Fruttiger, C. Ruhrberg, A. Lundkvist, A. Abramsson,
 
 Lessons from transgenic mice
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#3)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#3" %}}
 
 
 {{< tdclose >}}
@@ -105,7 +111,7 @@ Gerety, S. S., and D. J. Anderson. "[Cardiovascular EphrinB2 Function is Essenti
 
 Intravital imaging of zebrafish
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#4)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#4" %}}
 
 
 {{< tdclose >}}
@@ -133,7 +139,7 @@ Blum, Y., H. G. Belting, E. Ellertsdottir, L. Herwig, F. Lüders, and M. Affolte
 
 The importance of pericytes and smooth muscle cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#5)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#5" %}}
 
 
 {{< tdclose >}}
@@ -161,7 +167,7 @@ Abraham, S., N. Kogata, R. Fässler, and R. H. Adams. "[Integrin β1 Subunit Con
 
 Angiogenesis in disease and medicine
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#6)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#6" %}}
 
 
 {{< tdclose >}}
@@ -170,7 +176,7 @@ Angiogenesis in disease and medicine
 
 ### Paper 1
 
-Gragoudas, E. S., A. P. Adamis, E. T. Cunningham, Jr., M. Feinsod, and D. R. Guyer. "VEGF Inhibition Study in Ocular Neovascularization Clinical Trial Group." _N Engl J Med_ 351, no. 27 (December 30, 2004): 2805-16. ([PDF](http://www.nejm.org/doi/pdf/10.1056/NEJMoa042760))#
+Gragoudas, E. S., A. P. Adamis, E. T. Cunningham, Jr., M. Feinsod, and D. R. Guyer. "VEGF Inhibition Study in Ocular Neovascularization Clinical Trial Group." _N Engl J Med_ 351, no. 27 (December 30, 2004): 2805-16. ([PDF](http://www.nejm.org/doi/pdf/10.1056/NEJMoa042760)){{< sup "#" >}}
 
 ### Paper 2
 
@@ -189,7 +195,7 @@ Hammes, H. P., J. Lin, O. Renner, M. Shani, A. Lundqvist, C. Betsholtz, M. Brown
 
 Tumor angiogenesis – a historical perspective
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#7)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#7" %}}
 
 
 {{< tdclose >}}
@@ -217,7 +223,7 @@ Stoletov, K., V. Montel, R. D. Lester, S. L. Gonias, and R. Klemke. "[High-Resol
 
 Cutting cancer's supply lines: Targeting the VEGF pathway
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#8)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#8" %}}
 
 
 {{< tdclose >}}
@@ -245,7 +251,7 @@ Winkler, F., S. V. Kozin, R. T. Tong, S. S. Chae, M. F. Booth, I. Garkavtsev, L.
 
 Cutting cancer's supply lines: The example of the angiostatin
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#9)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#9" %}}
 
 
 {{< tdclose >}}
@@ -273,7 +279,7 @@ Mauceri, H. J., N. N. Hanna, M. A. Beckett, D. H. Gorski, M. J. Staba, K. A. Ste
 
 How can anti-angiogenic therapies stimulate rather than inhibit tumor growth and spreading?
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#10)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#10" %}}
 
 
 {{< tdclose >}}
@@ -305,7 +311,7 @@ Weller, M., D. Reardon, B. Nabors, R. Stupp. "[Will Integrin Inhibitors Have Pro
 
 Field trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#11)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#11" %}}
 
 
 {{< tdclose >}}
@@ -323,7 +329,7 @@ No Readings.
 
 Serendipity!
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#12)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#12" %}}
 
 
 {{< tdclose >}}
@@ -351,7 +357,7 @@ D'Amato, R. J., M. S. Loughnan, E. Flynn, and J. Folkman. "[Thalidomide is an In
 
 Oral presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#13)
+{{% resource_link 5723ad84-ec89-4c2d-e5e3-a3e1cce0f199 "See the Lecture Summary" "#13" %}}
 
 
 {{< tdclose >}}
